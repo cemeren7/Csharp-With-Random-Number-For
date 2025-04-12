@@ -1,0 +1,6 @@
+C:\Users\Lenovo\Desktop\İç İçe For Random\İç İçe For Random\bin\Debug\İç İçe For Random.exe.config
+C:\Users\Lenovo\Desktop\İç İçe For Random\İç İçe For Random\bin\Debug\İç İçe For Random.exe
+C:\Users\Lenovo\Desktop\İç İçe For Random\İç İçe For Random\bin\Debug\İç İçe For Random.pdb
+C:\Users\Lenovo\Desktop\İç İçe For Random\İç İçe For Random\obj\Debug\İç İçe For Random.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\İç İçe For Random\İç İçe For Random\obj\Debug\İç İçe For Random.exe
+C:\Users\Lenovo\Desktop\İç İçe For Random\İç İçe For Random\obj\Debug\İç İçe For Random.pdb
