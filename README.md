@@ -1,0 +1,1 @@
+- C# da iç içe for ile kullanıcıdan istenilen miktar kadar rastgele sayı üreten program
