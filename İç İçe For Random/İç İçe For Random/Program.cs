@@ -1,14 +1,8 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
 namespace İç_İçe_For_Random
 {
     class Program
-    {
-        
+    {    
         static void Main(string[] args)
         {
             Random rs = new Random();
